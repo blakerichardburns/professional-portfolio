@@ -122,8 +122,14 @@ footer a {
     color:#000000;
 }
 
-@media screen and (max-width: 1040px) {
-    header li, footer li, .example {
+@media screen and (max-width: 1039px) {
+    header li, footer li {
+      display: block;
+    }
+}
+
+@media screen and (max-width: 1524px) {
+    .example {
       display: block;
       justify-content: column;
     }
