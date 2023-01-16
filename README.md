@@ -1,7 +1,7 @@
 # professional-portfolio
 Module 2 Challenge: Advanced CSS
 
-<img src="./assets/images/screenshot-for-readme.JPG"
+![Alt text](./assets/screenshot.JPG "Screenshot")
 
 ## Repository Link
 https://blakerichardburns.github.io/professional-portfolio/
