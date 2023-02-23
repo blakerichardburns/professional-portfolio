@@ -24,5 +24,5 @@ Intended to test basic HTML and CSS skills, this is the first webpage the develo
   N/A  
   
   ## Questions
-  For any inquiries, spam by inbox here: blakerichardburns@gmail.com
+  For any inquiries, spam my inbox here: blakerichardburns@gmail.com <br>
   To peruse more of my portfolio, check this out: [blakerichardburns](https://github.com/blakerichardburns)
